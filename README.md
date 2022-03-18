@@ -1,5 +1,7 @@
 # dovecot-docker
 
+[![Build Status](https://drone.delphi-sucks.de/api/badges/Sebastian/dovecot-docker/status.svg)](https://drone.delphi-sucks.de/Sebastian/dovecot-docker)
+
 Full dovecot installation without automatic configuration for complete control.
 
 ## Features
